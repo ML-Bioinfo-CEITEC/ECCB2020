@@ -1,6 +1,6 @@
 #  Using Deep Learning For Image and Sequence Analysis (ECCB2020 tutorial)
 
-[Slides]() (**TBD**)
+Slides: https://docs.google.com/presentation/d/13S9ljSIQglEPihzcj7VoVl8ptsP9MZ_wEJ6QUnkErSk/edit?usp=sharing 
 
 Link: [http://bit.ly/eccb2020](http://bit.ly/eccb2020)
 
