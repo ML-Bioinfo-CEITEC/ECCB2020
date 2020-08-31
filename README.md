@@ -2,6 +2,8 @@
 
 [Slides]() (**TBD**)
 
+Link: [http://bit.ly/eccb2020](http://bit.ly/eccb2020)
+
 Click on the links below to open examples in Google Colaboratory
 
 * [01_one_neuron.ipynb](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2020/blob/master/notebooks/01_one_neuron.ipynb) - Simple regression problem
@@ -15,7 +17,6 @@ Click on the links below to open examples in Google Colaboratory
 * [05_Sequence_Generation.ipynb](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2020/blob/master/notebooks/05_Sequence_Generation.ipynb) - Generate text or genomic sequence
 
 * [06_Sequence_Classification.ipynb](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2020/blob/master/notebooks/06_Sequence_Classification.ipynb) - Classify texts or genomic sequences
-
 
 ### Acknowledgements
 
