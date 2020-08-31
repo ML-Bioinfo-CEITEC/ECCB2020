@@ -12,7 +12,7 @@ Click on the links below to open examples in Google Colaboratory
 
 * [04_Transfer_Learning.ipynb] - Now, it is your turn to find interesting image recognition problem and train the network
 
-* [05_Sequence_Generation.ipynb] - Generate text or genomic sequence
+* [05_Sequence_Generation.ipynb](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2020/blob/master/notebooks/05_Sequence_Generation.ipynb) - Generate text or genomic sequence
 
 * [06_Sequence_Classification.ipynb] - Classify texts or genomic sequences
 
