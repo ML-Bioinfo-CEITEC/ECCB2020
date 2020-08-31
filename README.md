@@ -10,7 +10,7 @@ Click on the links below to open examples in Google Colaboratory
 
 * [03_ImageNette.ipynb](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2020/blob/master/notebooks/03_ImageNette.ipynb) - Training network on a small ImageNet subset
 
-* [04_Transfer_Learning.ipynb] - Now, it is your turn to find interesting image recognition problem and train the network
+* [04_Transfer_Learning.ipynb](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2020/blob/master/notebooks/05_Sequence_Generation.ipynb) - Now, it is your turn to find interesting image recognition problem and train the network
 
 * [05_Sequence_Generation.ipynb](https://colab.research.google.com/github/ML-Bioinfo-CEITEC/ECCB2020/blob/master/notebooks/05_Sequence_Generation.ipynb) - Generate text or genomic sequence
 
